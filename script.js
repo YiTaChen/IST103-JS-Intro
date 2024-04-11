@@ -34,8 +34,8 @@ let myThermosFlask = {
   price: 150,
 };
 
-console.log("There are " + todoList.length + " things to do.");
-console.log("The last thing to do is: " + todoList[todoList.length - 1]);
+console.log("There are " + todoListCount + " things to do.");
+console.log("The last thing to do is: " + todoList[todoListCount - 1]);
 
 console.log(
   "And I will carry my " +
